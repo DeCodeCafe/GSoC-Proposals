@@ -8,3 +8,6 @@ Hello Contributors, Here are the steps to contribute.
 - Commit message must be "GSoC Proposal: Organization" (EG: GSoC Proposal - Checkstyle).
 - Please create a Pull Request.
 - You are done, Thank you for the contribution :-)
+
+
+You can also add a blog, if you have any regarding your GSOC Proposal or Journey
